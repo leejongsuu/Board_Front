@@ -5,6 +5,7 @@ import { Button, Link, Avatar, Box, Typography, Modal } from "@mui/material";
 import dayjs from "dayjs";
 import { BoardReple } from "domain/Board";
 
+//test
 const style = {
   position: "absolute",
   top: "55%",
